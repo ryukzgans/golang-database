@@ -1,0 +1,3 @@
+DB. Exec() is used for queries that do not return rows ( insert, delete, update ) and sql. 
+
+DB. Query( ) for queries that return rows ( selects )
